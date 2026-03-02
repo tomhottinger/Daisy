@@ -5,6 +5,10 @@ tags: Arbeitstechnik, Informationsmanagement, PIM, #weiss
 lang: de-ch
 ---
 
+
+
+![sdfaads](./images/rot.png)
+
 # Intro
 DAISY, das DIN A6 Information System ist ein System für die persönliche Selbstorganisation, das mit farbigen A6 Sichtmäppchen arbeitet.
 
