@@ -36,6 +36,7 @@ Du kannst dir hier auch einen Spick herunterladen und in Deinem DAISY versorgen.
 Zettel haben einen Merkbegiff oben rechts. Du findest die Zettel im Mäppchen schneller.
 
 Hier einige Beispiele:
+
 ![](./images/Sample1.png)![](./images/Sample2.jpg)![](./images/Sample3.jpg)
 
 In der **WebApp** sollen die Merkbegriffe genau so aussagekräftig sein. Das ist einer der Schlüssel, wenn wir finden wollen ohne genau zu wissen, was wir suchen. 
