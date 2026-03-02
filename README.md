@@ -7,7 +7,6 @@ lang: de-ch
 
 
 
-![sdfaads](./images/rot.png)
 
 # Intro
 DAISY, das DIN A6 Information System ist ein System für die persönliche Selbstorganisation, das mit farbigen A6 Sichtmäppchen arbeitet.
@@ -37,7 +36,7 @@ Du kannst dir hier auch einen Spick herunterladen und in Deinem DAISY versorgen.
 Zettel haben einen Merkbegiff oben rechts. Du findest die Zettel im Mäppchen schneller.
 
 Hier einige Beispiele:
-![](https://md.t71.ch/image/Sample1.png)![](https://md.t71.ch/images/Sample2.jpg)![](images/Sample3.jpg)
+![](./images/Sample1.png)![](./images/Sample2.jpg)![](./images/Sample3.jpg)
 
 In der **WebApp** sollen die Merkbegriffe genau so aussagekräftig sein. Das ist einer der Schlüssel, wenn wir finden wollen ohne genau zu wissen, was wir suchen. 
 
