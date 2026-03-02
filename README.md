@@ -33,7 +33,7 @@ Du kannst dir hier auch einen Spick herunterladen und in Deinem DAISY versorgen.
 Zettel haben einen Merkbegiff oben rechts. Du findest die Zettel im Mäppchen schneller.
 
 Hier einige Beispiele:
-![](https://md.t71.ch/uploads/b1b11cef-742f-43a4-a787-f8d5a05322a6.png)![](https://md.t71.ch/uploads/3cb2ff09-f6ce-4370-993b-d09b49042d3a.jpg)![](https://md.t71.ch/uploads/453dbd9b-45ae-42c7-8ef2-95556d179877.jpg)
+![](https://md.t71.ch/image/Sample1.png)![](https://md.t71.ch/images/Sample2.jpg)![](images/Sample3.jpg)
 
 In der **WebApp** sollen die Merkbegriffe genau so aussagekräftig sein. Das ist einer der Schlüssel, wenn wir finden wollen ohne genau zu wissen, was wir suchen. 
 
